@@ -80,7 +80,7 @@ public class Gameplay extends JPanel implements KeyListener, ActionListener {
 		six = image.getSubimage(300, 150, 150, 150);
 		seven = image.getSubimage(0, 300, 150, 150);
 		eight = image.getSubimage(150, 300, 150, 150);
-	}
+	} // Webbs is a skrub
 	public void paint(Graphics g){
 		Graphics2D g2 = (Graphics2D) g; 
 		g.setColor(Color.white);
